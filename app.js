@@ -1,7 +1,7 @@
 // Lista de números já sorteados para evitar repetições
 let listaNumerosSorteados = [];
 // Tamanho máximo da lista de números possíveis
-let tamanhoDaLista = 10;
+let tamanhoDaLista = 100;
 // Número secreto gerado aleatoriamente
 let numeroSecreto = gerarNumeroAleatorio();
 // Contador de tentativas do jogador
