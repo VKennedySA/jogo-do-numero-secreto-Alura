@@ -1,0 +1,11 @@
+temp/
+#Ignora a pasta "temp" e todo o seu conteúdo
+
+#arquivo.txt
+#Ignora o arquivo "arquivo.txt" 
+
+#*.css
+#Ignora todos os arquivos com extensão .css   
+
+
+#gitignore.io   é um site que cria arquivos .gitignore personalizados para diferentes linguagens e ambientes de desenvolvimento.
